@@ -1,0 +1,9 @@
+From: procurement@clientco.com
+Subject: Request for Quotation
+
+Dear team,
+
+We are looking for a quotation on 200 units of part #X92 to be delivered by June 1. Please confirm availability and pricing.
+
+Regards,
+Procurement Dept.

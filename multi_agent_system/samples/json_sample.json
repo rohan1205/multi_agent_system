@@ -1,0 +1,9 @@
+{
+  "id": "INV-872",
+  "timestamp": "2025-05-28T09:20:30Z",
+  "payload": {
+    "client": "ClientCo",
+    "amount": 1200.50,
+    "currency": "USD"
+  }
+}

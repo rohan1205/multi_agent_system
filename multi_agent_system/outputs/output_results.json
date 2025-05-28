@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-05-28 12:34:56",
+  "source": "sample_inputs/email_sample.txt",
+  "format": "Email",
+  "intent": "RFQ",
+  "agent": "EmailAgent",
+  "metadata": {
+    "intent": "RFQ",
+    "urgency": "High",
+    "summary": "We are requesting a quote for 200 units of..."
+  }
+}
